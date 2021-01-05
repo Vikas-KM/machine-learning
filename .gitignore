@@ -3,3 +3,6 @@
 .vscode/launch.json
 .vscode/settings.json
 .idea/.gitignore
+Feature_Engineering/data/cup98LRN.txt
+ML_Projects/Movie Recommendation System/__pycache__/movie_recommend_system.cpython-36.pyc
+ML_Projects/Movie Recommendation System/__pycache__/movie_recommend_system.cpython-37.pyc
